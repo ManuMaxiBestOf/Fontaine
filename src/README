@@ -1,5 +1,41 @@
 La fontaine de Mnémosyne est un jeu d'aventure en format text.
-bla
-bla
-bla
 
+
+Personnage : Pierre , Chercheur passionné de mythologie.
+Contexte: 	Après des études poussés sur une roche léguée par son oncle, Pierre découvre l'exitence d'une fontaine caché dans une grotte qui permetrai de se souvenir de tout. 
+                Mais pour acceder a cette fontaine il faut trois pierre pour ouvrir lacces, il n'en possede qu'une.
+		Il décide de partir à la recherche des deux autres pierres pour pouvoir ensuite accéder à la fontaine magique.
+		inventaire de début:
+			note d'études (ses notes lui indique d'un dénommé Monsieur Martin avait un artefacts en sa possesion durant le vol.)
+
+(Introduire en plus l'histoirdes trois pierres)
+
+Première envionnement: le désert
+première pièce : parachuter il est en plein milieu du désert, Il peut regarder dans chaque direction. (la carcarce est situé à l'ouest)
+deuxieme piece : devant la carcace, il y a une porte, une coquepit endommagé, hublot de l'avion explosé. 
+			Il peut choisir 
+				d'ouvrir la porte : fermé /
+				 passé par un hoblot : trop petit risque de s'ouvrir/
+				passé par le coquepit: OK
+troisième pièce : le coquepit. Commandant et un copilot. il ont leur affaires personnels près d'eux
+			Il peut choisir
+				de fouiller le commandant et le coequipier
+				aller dans la deuxieme partie de l'avion.
+quatrième pièce : deuxième piece de l'avion (salle commune). 3 personnes (gauche, devant, droite).avec leur affaires personnel à coté d'eux 
+			Il peut choisir
+				de fouiller les gens
+				de revenir dans le coquepit.
+cinquieme piece : fouiller une personne, peut fouiller ses papier et ses poches.
+
+
+deuxième environnement: la forêt
+Intro: apres avoir trouvé le premier artefact il se rend dans la foret pour trouver la deuxieme pierre.
+Il doit afronter un chien sauvage qui garde la pierre.
+apres plusieurs jours de marche dans la foret il trouve le chien. il y a un baton part terre, il doit choisir de le ramasser.
+                     il peut choisir plusieurs option de combat défense ou attaque
+combat gagné je recupère le 2e artefact
+
+troisième evironnement : la grotte
+apres avoir en sa possession les trois clefs il se dirige dans la grotte.
+au fond de la grotte il trouve un mur avec trois trous. il peut decider d'y incruster les pierres. 
+La porte s'ouvre. il peut boire l'eau et se souvenir.

@@ -7,7 +7,7 @@ public class Main {
 		//game.start();
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Bienvenue dans les aventures de la fontaine de Mnémosyne");
-		System.out.println("Commencer l'aventure?");
+		System.out.println("Commencer l'aventure? (oui/non)");
 		System.out.print("> ");
 		String input = scanner.nextLine();
 		Hero Pierre = new Hero(100,5);
