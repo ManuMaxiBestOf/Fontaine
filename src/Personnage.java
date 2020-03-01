@@ -2,9 +2,8 @@ import java.util.ArrayList;
 
 public class Personnage {
 	public Personnage(Integer pV, Integer attack) {
-		super();
-		PV = pV;
-		Attack = attack;
+		this.PV = pV;
+		this.Attack = attack;
 	}
 	public int getPV() {
 		return PV;
@@ -24,7 +23,14 @@ public class Personnage {
 	public void setListAction(ArrayList<ActionPersonnage> listAction) {
 		this.listAction = listAction;
 	}
+	public Pièce getPièceCourante() {
+		return pièceCourante;
+	}
+	public void setPièceCourante(Pièce pièceCourante) {
+		this.pièceCourante = pièceCourante;
+	}
 	private int PV;
 	private int Attack;
+	private Pièce pièceCourante;
 	private ArrayList<ActionPersonnage> listAction;
 }

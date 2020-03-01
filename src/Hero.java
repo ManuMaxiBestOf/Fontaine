@@ -7,4 +7,12 @@ public class Hero extends Personnage {
 	}
 
 	private ArrayList<Objet> listObjets;
+
+	public ArrayList<Objet> getListObjets() {
+		return listObjets;
+	}
+
+	public void setListObjets(ArrayList<Objet> listObjets) {
+		this.listObjets = listObjets;
+	}
 }
